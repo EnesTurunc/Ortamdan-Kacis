@@ -16,7 +16,7 @@
 
 | Gelen Arama (Incoming Call) | Sahte Şarj (Fake Battery) | Sahte Güncelleme (Fake Update) |
 |:---:|:---:|:---:|
-| ![Call Screen](https://github.com/user-attachments/assets/53679adb-3a15-425b-964b-84ae6c7c5521) | ![Battery](https://github.com/user-attachments/assets/4a549ab5-30f7-46e8-95e9-4cd35b8ae468) | ![Update]((https://github.com/user-attachments/assets/e500d401-5f82-425c-887e-be4b01806a19)) |
+| ![Call Screen](https://github.com/user-attachments/assets/53679adb-3a15-425b-964b-84ae6c7c5521) | ![Battery](https://github.com/user-attachments/assets/4a549ab5-30f7-46e8-95e9-4cd35b8ae468) | ![Update]((https://github.com/user-attachments/assets/e500d401-5f82-425c-887e-be4b01806a19) |
 
 ---
 
