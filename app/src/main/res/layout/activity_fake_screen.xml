@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"> <LinearLayout
+    android:id="@+id/layoutBattery"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="gone"> <ImageView
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:src="@drawable/ic_battery_alert"
+    android:padding="10dp"
+    app:tint="#D50000"/> <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="%1"
+    android:textColor="#D50000"
+    android:textSize="24sp"
+    android:textStyle="bold"
+    android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telefon kapatılıyor..."
+        android:textColor="#808080"
+        android:textSize="14sp"
+        android:layout_marginTop="8dp"/>
+</LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/layoutUpdate"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone"> <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_android_head"
+        app:tint="#3DDC84"/> <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sistem Güncellemesi Yükleniyor"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="24dp"/>
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:progress="0"
+            android:max="100"
+            android:progressTint="#3DDC84"/>
+
+        <TextView
+            android:id="@+id/tvProgress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="%0"
+            android:textColor="#B0B0B0"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cihazı kapatmayınız"
+            android:textColor="#606060"
+            android:textSize="12sp"
+            android:layout_marginTop="30dp"/>
+    </LinearLayout>
+
+</FrameLayout>
