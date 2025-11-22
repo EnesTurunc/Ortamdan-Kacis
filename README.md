@@ -6,16 +6,17 @@
 
 ---
 
-## 📱 Screenshots (Ekran Görüntüleri)
+### 📱 Screenshots (Ekran Görüntüleri)
 
 | Ana Menü (Main Menu) | Arama Ayarları (Call Setup) |
 |:---:|:---:|
-| ![Main Menu](![Image](https://github.com/user-attachments/assets/67043f05-1432-4b08-b58c-16bccb0cbccc)
-) | ![Settings](![Image](https://github.com/user-attachments/assets/60a62605-2099-49ba-b060-c187813b1fd9) |
+| ![Main Menu](https://github.com/user-attachments/assets/67043f05-1432-4b08-b58c-16bccb0cbccc) | ![Settings](https://github.com/user-attachments/assets/60a62605-2099-49ba-b060-c187813b1fd9) |
+
+<br>
 
 | Gelen Arama (Incoming Call) | Sahte Şarj (Fake Battery) | Sahte Güncelleme (Fake Update) |
 |:---:|:---:|:---:|
-| ![Call Screen](![Image](https://github.com/user-attachments/assets/03385a73-d126-4e83-8b54-534130f41e22) | ![Battery](![Image](https://github.com/user-attachments/assets/53679adb-3a15-425b-964b-84ae6c7c5521) | ![Update](![Image](https://github.com/user-attachments/assets/4a549ab5-30f7-46e8-95e9-4cd35b8ae468) |
+| ![Call Screen](https://github.com/user-attachments/assets/03385a73-d126-4e83-8b54-534130f41e22) | ![Battery](https://github.com/user-attachments/assets/53679adb-3a15-425b-964b-84ae6c7c5521) | ![Update](https://github.com/user-attachments/assets/4a549ab5-30f7-46e8-95e9-4cd35b8ae468) |
 
 ---
 
